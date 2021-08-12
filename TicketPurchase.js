@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     },
     ticketimage: {
         width: '100%',
-        height: 180
+        resizeMode: 'stretch'
     },
     shortdescription: {
         fontFamily: 'Ubuntu-Regular',
