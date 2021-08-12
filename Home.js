@@ -25,7 +25,7 @@ const Home =(props) => {
     );
 }
 
-const introText = `Bit Coin Generator`;
+const introText = `Buy Your Tickets Here`;
 
 const styles = StyleSheet.create({
     container: {

@@ -25,7 +25,7 @@ const App: () => React$Node = () => {
                         headerShown: false
                     }}
                 >
-                    {(props) => <Home {...props} username='Mega Coin' />}
+                    {(props) => <Home {...props} username='Mean Gener Okerlund' />}
                 </Stack.Screen>
                 <Stack.Screen
                     name='Tickets'
